@@ -1,0 +1,20 @@
+var Resume={
+Personal_Details:[   
+Name: 'Rushikesh xxxxx xxx',
+Add:'plot No-66 New xxxxx Colony ,xxx ,A'bad,
+Email:'kalerushikehxx@gmail.com',
+C.No:94xxxx23xx;
+]
+Objective: 'To develope web applications by implementing tools I have learned' ,
+Skill_set:['Mongo DB','Express.js','React.js','Node.js','Javascpript','Python'],
+Qualification: {
+    PG Diploma:'HEV Design & Analysis',
+    BE:'Mechanical Engineering',
+}
+Professional_Experiance:{
+    Company: 'Xirho tech Simulation',
+    Role: 'CAE Engineer',
+}
+
+}
+
